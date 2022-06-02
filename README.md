@@ -4,10 +4,10 @@ A curated list of awesome introductory programming resources for a variety of sp
 
 ## Game design
 
-- [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode?rtc=1) - Online learn-to-code platform where anyone can build games, code devices, and mod Minecraft
+- [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode?rtc=1) - Online learn-to-code platform to build games, code devices, and mod Minecraft
 - [Yarn Spinner](https://yarnspinner.dev/) - The friendly tool for writing game dialogue
 - [Gosu](https://github.com/gosu/gosu/wiki/Ruby-Tutorial) - A 2D game development library for Ruby and C++
-- [Phaser](https://phaser.io/learn) - HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers
+- [Phaser](https://phaser.io/learn) - HTML5 game framework that offers WebGL and Canvas rendering for desktop and mobile
 - [Unity](https://www.raywenderlich.com/7514-introduction-to-unity-getting-started-part-1-2) - A cross-platform game engine for 2D and 3D games
 
   ##### People to follow: [@avantgame](https://twitter.com/avantgame) [@managore](https://twitter.com/managore) [@photonstorm](https://twitter.com/photonstorm)
