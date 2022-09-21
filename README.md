@@ -37,7 +37,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 
   ##### People to follow: [@antonmedv](https://twitter.com/antonmedv) [@RosemaryOrchard](https://twitter.com/RosemaryOrchard) [@MacSparky](https://twitter.com/MacSparky)
 
-  ##### Project ideas: Build a script to automate simple tasks ([examples](https://www.ondeck.com/resources/20-business-tasks-you-can-easily-automate)), or a xbar menubar script ([examples](https://xbarapp.com/docs/plugins/Tools.html))
+  ##### Project ideas: Build a script to automate simple tasks ([examples](https://www.ondeck.com/resources/20-business-tasks-you-can-easily-automate)), or a xbar menubar script ([examples](https://xbarapp.com/docs/plugins/Tools.html), [ruby guide](https://gist.github.com/peterxjang/a530e72131774a1a8b8ae8f6e86b1bb7))
 
 ## Computer Science
 
