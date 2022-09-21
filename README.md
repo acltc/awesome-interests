@@ -48,7 +48,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 
   ##### People to follow: [@b0rk](https://twitter.com/b0rk) [@garybernhardt](https://twitter.com/garybernhardt) [@vaidehijoshi](https://twitter.com/vaidehijoshi)
 
-  ##### Project ideas: Build a web server/compiler/text editor from scratch, write about computer science concepts you learned ([example](https://medium.com/basecs))
+  ##### Project ideas: Build a web server/compiler/text editor from scratch, write about computer science concepts you learned ([examples](https://medium.com/basecs))
 
 ## Clean code
 
@@ -58,7 +58,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 
   ##### People to follow: [@sandimetz](https://twitter.com/sandimetz) [@mixandgo](https://twitter.com/mixandgo) [@jessitron](https://twitter.com/jessitron) [@solnic29a](https://twitter.com/solnic29a) [@nateberkopec](https://twitter.com/nateberkopec) [@rtfeldman](https://twitter.com/rtfeldman) [@addyosmani](https://twitter.com/addyosmani)
 
-  ##### Project ideas: write about coding techniques you learned ([example](https://dev.to/baweaver/series/13568))
+  ##### Project ideas: write about coding techniques you learned ([examples](https://dev.to/baweaver/series/13568))
 
 ## Hacking and Security
 
@@ -81,7 +81,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 
   ##### People to follow: [@nicole_express](https://twitter.com/nicole_express) [@MohitBhoite](https://twitter.com/MohitBhoite) [@jeriellsworth](https://twitter.com/jeriellsworth) [@UriShaked](https://twitter.com/UriShaked)
 
-  ##### Project ideas: build a robotics project ([example](https://www.bisinfotech.com/top-robotics-project-ideas-for-beginners/)), make a music script with code ([example](https://projects.raspberrypi.org/en/codeclub/sonic-pi))
+  ##### Project ideas: build a robotics project ([examples](https://www.bisinfotech.com/top-robotics-project-ideas-for-beginners/)), make a music script with code ([examples](https://projects.raspberrypi.org/en/codeclub/sonic-pi))
 
 ## Data visualization
 
