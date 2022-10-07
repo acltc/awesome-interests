@@ -14,17 +14,37 @@ A curated list of awesome introductory programming resources for a variety of sp
 
   ##### Project ideas: Make a simple puzzle, platformer, or strategy game ([examples](https://www.create-learn.us/blog/easy-games-to-code/))
 
-## Visual design
+## Frontend design
 
 - [CSS](https://web.dev/learn/css/) - An evergreen CSS course and reference to level up your web styling expertise
+- [w3schools](https://www.w3schools.com/css/exercise.asp), [CSS Diner](https://flukeout.github.io/), [Flexbox Froggy](https://flexboxfroggy.com/), [Grid Garden](https://cssgridgarden.com/) - Interactive tutorials and games to practice and learn CSS
 - [Refactoring UI](https://www.refactoringui.com/) - Make your ideas look awesome, without relying on a designer.
-- [Customize Terminal](https://www.roboleary.net/2021/06/09/give-your-terminal-a-makeover.html) - Give your linux terminal a makeover
-- [Customize Vscode theme](https://css-tricks.com/creating-a-vs-code-theme/) - Tutorial on creating a VS Code Theme
-- [Daily UI](https://www.dailyui.co/) - Daily UI is a series of daily Design Challenges Inspiration and Surprise Rewards
+- [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) - Design challenges using real-world projects, with a large Slack community for support
 
   ##### People to follow: [@sara_edo](https://twitter.com/sarah_edo) [@LeaVerou](https://twitter.com/LeaVerou) [@Una](https://twitter.com/Una) [@steveschoger](https://twitter.com/steveschoger) [@vponamariov](https://twitter.com/vponamariov) [@adamwathan](https://twitter.com/adamwathan) [@samselikoff](https://twitter.com/) [@tomokihara](https://twitter.com/tomokihara)
 
-  ##### Project ideas: Build a personal website, or a clone of an existing website ([examples](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/))
+  ##### Project ideas: Build a website from an existing design ([Frontend Mentor](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free), [Frontend Practice](https://www.frontendpractice.com/), [GeeksForGeeks](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/))
+
+## Music and audio
+
+- [Sonic Pi tutorial](https://sonic-pi.net/tutorial.html) - A code-based music creation and performance tool
+- [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API) - JavaScript API for processing and synthesizing audio in web applications
+- [EarSketch](https://earsketch.gatech.edu/) - Learn coding through music using Python or JavaScript
+
+  ##### People to follow: [@samaaron](https://twitter.com/samaaron), [@dj\_\_\_\_dave](https://twitter.com/dj____dave)
+
+  ##### Project ideas: Make a music script with code ([examples](https://projects.raspberrypi.org/en/codeclub/sonic-pi))
+
+## Customization and tooling
+
+- [Customize Terminal](https://dev.to/hannahgooding/how-i-customise-my-terminal-with-oh-my-zsh-macos-427i) - Add themes and plugins to your terminal zsh shell
+- [Customize Vscode theme](https://css-tricks.com/creating-a-vs-code-theme/) - Tutorial on creating a VS Code Theme
+- [vim](https://peterxjang.com/blog/how-to-learn-vim-a-four-week-plan.html) - A terminal text editor, controlled entirely with the keyboard with no need for menus or a mouse
+- [xbar](https://xbarapp.com/) - Put the output from any script/program in your macOS menu bar
+
+  ##### People to follow: [@wesbos](https://twitter.com/wesbos), [@robbyrussell](https://twitter.com/robbyrussell)
+
+  ##### Project ideas: Build an xbar menu bar script ([examples](https://xbarapp.com/docs/plugins/Tools.html), [ruby guide](https://gist.github.com/peterxjang/a530e72131774a1a8b8ae8f6e86b1bb7))
 
 ## Automation
 
@@ -32,12 +52,10 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [AutoHotKey](https://www.makeuseof.com/tag/10-cool-autohotkey-scripts-make/) - AutoHotkey lets you make custom Windows shortcuts, macros, and more
 - [Google Apps Script](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/) - A cloud-based scripting language for extending the functionality of Google Apps
 - [Web scraping](https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/) - Use code to extract content and data from a website
-- [xbar](https://xbarapp.com/) - Put the output from any script/program in your macOS menu bar
-- [vim](https://peterxjang.com/blog/how-to-learn-vim-a-four-week-plan.html) - A terminal text editor, controlled entirely with the keyboard with no need for menus or a mouse
 
   ##### People to follow: [@antonmedv](https://twitter.com/antonmedv) [@RosemaryOrchard](https://twitter.com/RosemaryOrchard) [@MacSparky](https://twitter.com/MacSparky)
 
-  ##### Project ideas: Build a script to automate simple tasks ([examples](https://www.ondeck.com/resources/20-business-tasks-you-can-easily-automate)), or a xbar menubar script ([examples](https://xbarapp.com/docs/plugins/Tools.html), [ruby guide](https://gist.github.com/peterxjang/a530e72131774a1a8b8ae8f6e86b1bb7))
+  ##### Project ideas: Build a script to automate simple tasks ([examples](https://www.ondeck.com/resources/20-business-tasks-you-can-easily-automate))
 
 ## Computer Science
 
@@ -58,7 +76,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 
   ##### People to follow: [@sandimetz](https://twitter.com/sandimetz) [@mixandgo](https://twitter.com/mixandgo) [@jessitron](https://twitter.com/jessitron) [@solnic29a](https://twitter.com/solnic29a) [@nateberkopec](https://twitter.com/nateberkopec) [@rtfeldman](https://twitter.com/rtfeldman) [@addyosmani](https://twitter.com/addyosmani)
 
-  ##### Project ideas: write about coding techniques you learned ([examples](https://dev.to/baweaver/series/13568))
+  ##### Project ideas: Write about coding techniques you learned ([examples](https://dev.to/baweaver/series/13568))
 
 ## Hacking and Security
 
@@ -70,18 +88,18 @@ A curated list of awesome introductory programming resources for a variety of sp
 
   ##### People to follow: [@NahamSec](https://twitter.com/NahamSec) [@AletheDenis](https://twitter.com/AletheDenis) [@InsiderPhD](https://twitter.com/InsiderPhD) [@samwcyo](https://twitter.com/samwcyo)
 
-  ##### Project ideas: build a hacking script ([examples](https://intellipaat.com/blog/ethical-hacking-projects/)), write about hacking/security concepts you learned ([examples](https://dev.to/t/security))
+  ##### Project ideas: Build a hacking script ([examples](https://intellipaat.com/blog/ethical-hacking-projects/)), write about hacking/security concepts you learned ([examples](https://dev.to/t/security))
 
 ## Robotics and Hardware
 
+- [Home Assistant](https://www.home-assistant.io/) - Control and automate all your smart home devices with a single open source platform
 - [An Introductory Robot Programming Tutorial](https://www.toptal.com/robotics/programming-a-robot-an-introductory-tutorial) - Build a basic autonomous mobile robot
 - [Lego Mindstorms](https://www.lego.com/en-us/themes/mindstorms/learntoprogram) - Program a Lego EV3 robot on a tablet or computer
 - [QMK Tutorials](https://www.youtube.com/playlist?list=PLZlceRZZjRugJFL-vnenYnDrbMc6wu_e_) - Program custom firmware for mechanical keyboards
-- [Sonic Pi tutorial](https://sonic-pi.net/tutorial.html) - A code-based music creation and performance tool.
 
   ##### People to follow: [@nicole_express](https://twitter.com/nicole_express) [@MohitBhoite](https://twitter.com/MohitBhoite) [@jeriellsworth](https://twitter.com/jeriellsworth) [@UriShaked](https://twitter.com/UriShaked)
 
-  ##### Project ideas: build a robotics project ([examples](https://www.bisinfotech.com/top-robotics-project-ideas-for-beginners/)), make a music script with code ([examples](https://projects.raspberrypi.org/en/codeclub/sonic-pi))
+  ##### Project ideas: Build a robotics project ([examples](https://www.bisinfotech.com/top-robotics-project-ideas-for-beginners/)), write a home automation script ([examples](https://www.home-assistant.io/examples/))
 
 ## Data visualization
 
