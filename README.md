@@ -49,7 +49,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 ## Automation
 
 - [AppleScript](https://www.macworld.com/article/671819/an-introduction-to-using-applescript-applescript-tutorial.html) - A scripting language that can help you automate repetitive tasks on your Mac
-- [Hammerspoon](https://www.hammerspoon.org/) - Write Lua code for macOS APIs (applications, windows, audio devices, batteries, wifi, and more)
+- [Hammerspoon](https://www.hammerspoon.org/) - Write Lua code for macOS APIs (applications, windows, batteries, wifi, and more)
 - [AutoHotKey](https://www.makeuseof.com/tag/10-cool-autohotkey-scripts-make/) - AutoHotkey lets you make custom Windows shortcuts, macros, and more
 - [Google Apps Script](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/) - A cloud-based scripting language for extending the functionality of Google Apps
 - [Web scraping](https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/) - Use code to extract content and data from a website
