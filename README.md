@@ -63,6 +63,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Build Your Own Web Server With Ruby](https://www.rubyguides.com/2016/08/build-your-own-web-server/) - Build a web server from scratch
 - [A Compiler from Scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch) - Build a compiler from scratch
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) - An instruction booklet that shows you how to build a text editor in C
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - More resources to build tools from scratch with different languages
 - [High Performance Browser Networking](https://hpbn.co/) - A deep dive into how the web works
 
   ##### People to follow: [@b0rk](https://twitter.com/b0rk) [@garybernhardt](https://twitter.com/garybernhardt) [@vaidehijoshi](https://twitter.com/vaidehijoshi)
