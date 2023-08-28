@@ -10,7 +10,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Phaser](https://phaser.io/learn) - HTML5 game framework that offers WebGL and Canvas rendering for desktop and mobile
 - [Unity](https://www.raywenderlich.com/7514-introduction-to-unity-getting-started-part-1-2) - A cross-platform game engine for 2D and 3D games
 
-  ##### People to follow: [@avantgame](https://twitter.com/avantgame) [@managore](https://twitter.com/managore) [@photonstorm](https://twitter.com/photonstorm)
+  ##### People to follow: [Jane McGonigal](https://janemcgonigal.com) - [Daniel Linssen](https://daniellinssen.games) - [@photonstorm](https://twitter.com/photonstorm)
 
   ##### Project ideas: Make a simple puzzle, platformer, or strategy game ([examples](https://www.create-learn.us/blog/easy-games-to-code/))
 
@@ -21,7 +21,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Refactoring UI](https://www.refactoringui.com/) - Make your ideas look awesome, without relying on a designer.
 - [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) - Design challenges using real-world projects, with a large Slack community for support
 
-  ##### People to follow: [@sara_edo](https://twitter.com/sarah_edo) [@LeaVerou](https://twitter.com/LeaVerou) [@Una](https://twitter.com/Una) [@steveschoger](https://twitter.com/steveschoger) [@vponamariov](https://twitter.com/vponamariov) [@adamwathan](https://twitter.com/adamwathan) [@samselikoff](https://twitter.com/) [@tomokihara](https://twitter.com/tomokihara)
+  ##### People to follow: [Sarah Drasner](https://sarahdrasnerdesign.com/) - [Lea Verou](https://lea.verou.me) - [Una Kravets](https://una.im) - [Steve Schoger](https://www.steveschoger.com) - [Victor Ponamariov](https://user-interface.io) - [Adam Wathan](https://adamwathan.me) - [Sam Selikoff](https://samselikoff.com) - [Tomo Kihara](https://www.tomokihara.com)
 
   ##### Project ideas: Build a website from an existing design ([Frontend Mentor](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free), [Frontend Practice](https://www.frontendpractice.com/), [GeeksForGeeks](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/))
 
@@ -31,7 +31,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API) - JavaScript API for processing and synthesizing audio in web applications
 - [EarSketch](https://earsketch.gatech.edu/) - Learn coding through music using Python or JavaScript
 
-  ##### People to follow: [@samaaron](https://twitter.com/samaaron), [@dj\_\_\_\_dave](https://twitter.com/dj____dave)
+  ##### People to follow: [@samaaron](https://twitter.com/samaaron) - [@dj\_\_\_\_dave](https://twitter.com/dj____dave)
 
   ##### Project ideas: Make a music script with code ([examples](https://projects.raspberrypi.org/en/codeclub/sonic-pi))
 
@@ -42,7 +42,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [vim](https://peterxjang.com/blog/how-to-learn-vim-a-four-week-plan.html) - A terminal text editor, controlled entirely with the keyboard with no need for menus or a mouse
 - [xbar](https://xbarapp.com/) - Put the output from any script/program in your macOS menu bar
 
-  ##### People to follow: [@wesbos](https://twitter.com/wesbos), [@robbyrussell](https://twitter.com/robbyrussell)
+  ##### People to follow: [Wes Bos](https://wesbos.com/) - [@robbyrussell](https://ruby.social/@robbyrussell)
 
   ##### Project ideas: Build an xbar menu bar script ([examples](https://xbarapp.com/docs/plugins/Tools.html), [ruby guide](https://gist.github.com/peterxjang/a530e72131774a1a8b8ae8f6e86b1bb7))
 
@@ -54,7 +54,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Google Apps Script](https://www.benlcollins.com/apps-script/google-apps-script-beginner-guide/) - A cloud-based scripting language for extending the functionality of Google Apps
 - [Web scraping](https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/) - Use code to extract content and data from a website
 
-  ##### People to follow: [@antonmedv](https://twitter.com/antonmedv) [@RosemaryOrchard](https://twitter.com/RosemaryOrchard) [@MacSparky](https://twitter.com/MacSparky)
+  ##### People to follow: [Anton Medvedev](https://medv.io/) - [Rosemary Orchard](https://rosemaryorchard.com/) - [David Sparks](https://www.macsparky.com/)
 
   ##### Project ideas: Build a script to automate simple tasks ([examples](https://www.ondeck.com/resources/20-business-tasks-you-can-easily-automate))
 
@@ -66,7 +66,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) - More resources to build tools from scratch with different languages
 - [High Performance Browser Networking](https://hpbn.co/) - A deep dive into how the web works
 
-  ##### People to follow: [@b0rk](https://twitter.com/b0rk) [@garybernhardt](https://twitter.com/garybernhardt) [@vaidehijoshi](https://twitter.com/vaidehijoshi)
+  ##### People to follow: [Julia Evans](https://jvns.ca/) - [@garybernhardt](https://twitter.com/garybernhardt) - [Vaidehi Joshi](https://vaidehi.com/)
 
   ##### Project ideas: Build a web server/compiler/text editor from scratch, write about computer science concepts you learned ([examples](https://medium.com/basecs))
 
@@ -76,7 +76,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Getting Started with Rails Testing](https://www.codewithjason.com/getting-started-rails-testing/) - Writing automated tests for the Ruby on Rails web framework
 - [Fast load times](https://web.dev/fast/) - Techniques for improving website performance
 
-  ##### People to follow: [@sandimetz](https://twitter.com/sandimetz) [@mixandgo](https://twitter.com/mixandgo) [@jessitron](https://twitter.com/jessitron) [@solnic29a](https://twitter.com/solnic29a) [@nateberkopec](https://twitter.com/nateberkopec) [@rtfeldman](https://twitter.com/rtfeldman) [@addyosmani](https://twitter.com/addyosmani)
+  ##### People to follow: [Sandi Metz](https://sandimetz.com/) - [Jessica Kerr](https://jessitron.com/) - [Peter Solnica](https://solnic.codes/) - [Nate Berkopec](https://www.nateberkopec.com/) - [Addy Osmani](https://addyosmani.com/)
 
   ##### Project ideas: Write about coding techniques you learned ([examples](https://dev.to/baweaver/series/13568))
 
@@ -88,7 +88,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html) - Cheat sheets on web security topics
 - [OverTheWire Wargames](https://overthewire.org/wargames/) - Terminal games to to learn and practice security concepts
 
-  ##### People to follow: [@NahamSec](https://twitter.com/NahamSec) [@AletheDenis](https://twitter.com/AletheDenis) [@InsiderPhD](https://twitter.com/InsiderPhD) [@samwcyo](https://twitter.com/samwcyo)
+  ##### People to follow: [Ben Sadeghipour](https://nahamsec.com/) - [Alethe Denis](https://linktr.ee/alethedenis) - [InsiderPhD](https://insiderphd.dev/) - [@samwcyo](https://twitter.com/samwcyo)
 
   ##### Project ideas: Build a hacking script ([examples](https://intellipaat.com/blog/ethical-hacking-projects/)), write about hacking/security concepts you learned ([examples](https://dev.to/t/security))
 
@@ -99,7 +99,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Lego Mindstorms](https://www.lego.com/en-us/themes/mindstorms/learntoprogram) - Program a Lego EV3 robot on a tablet or computer
 - [QMK Tutorials](https://www.youtube.com/playlist?list=PLZlceRZZjRugJFL-vnenYnDrbMc6wu_e_) - Program custom firmware for mechanical keyboards
 
-  ##### People to follow: [@nicole_express](https://twitter.com/nicole_express) [@MohitBhoite](https://twitter.com/MohitBhoite) [@jeriellsworth](https://twitter.com/jeriellsworth) [@UriShaked](https://twitter.com/UriShaked)
+  ##### People to follow: [Nicole Branagan](https://nicole.express/) - [Mohit Bhoite](https://www.bhoite.com/) - [Jeri Ellsworth](https://www.jeriellsworth.com/) - [Uri Shaked](https://urish.org/)
 
   ##### Project ideas: Build a robotics project ([examples](https://www.bisinfotech.com/top-robotics-project-ideas-for-beginners/)), write a home automation script ([examples](https://www.home-assistant.io/examples/))
 
@@ -109,7 +109,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [Interactive Charts with D3.js](https://wattenberger.com/blog/d3-interactive-charts) - An interactive tutorial to build interactive charts with D3.js
 - [Data Visualization with Python](https://www.geeksforgeeks.org/data-visualization-with-python/) - How to visualize data using four different Python libraries
 
-  ##### People to follow: [@sxywu](https://twitter.com/sxywu) [@NadiehBremer](https://twitter.com/NadiehBremer) [@Wattenberger](https://twitter.com/Wattenberger) [@vihartvihart](https://twitter.com/vihartvihart)
+  ##### People to follow: [Shirly Wu](https://shirleywu.studio/) - [Nadieh Bremer](https://www.visualcinnamon.com/about/) - [Amelia Wattenberger](https://wattenberger.com/) - [@vihartvihart](https://twitter.com/vihartvihart)
 
   ##### Project ideas: create a visualization around a topic of interest ([examples](https://www.analyticsfordecisions.com/data-visualization-projects/))
 
@@ -119,6 +119,6 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [A guide to building a blockchain & cryptocurrency from scratch in Ruby](https://antoinefink.com/building-a-blockchain-and-cryptocurrency-in-ruby)
 - [Learn Blockchain, Solidity, and Full Stack JavaScript Development](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/)
 
-  ##### People to follow: [@kelsiemvn](https://twitter.com/kelsiemvn) [@IvanOnTech](https://twitter.com/IvanOnTech) [@techgirl1908](https://twitter.com/techgirl1908)
+  ##### People to follow: [@kelsiemvn](https://twitter.com/kelsiemvn) - [@IvanOnTech](https://twitter.com/IvanOnTech) - [Angie Jones](https://angiejones.tech/)
 
   ##### Project ideas: build a basic blockchain from scratch
