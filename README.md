@@ -12,7 +12,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 
   ##### People to follow: [Jane McGonigal](https://janemcgonigal.com) - [Daniel Linssen](https://daniellinssen.games) - [@photonstorm](https://twitter.com/photonstorm)
 
-  ##### Project ideas: Make a simple puzzle, platformer, or strategy game ([examples](https://www.create-learn.us/blog/easy-games-to-code/))
+  ##### Project ideas: Make a simple puzzle, platformer, or strategy game ([examples](https://www.create-learn.us/blog/easy-games-to-code/), [ideas](https://abagames.github.io/joys-of-small-game-development-en/ideas/))
 
 ## Frontend design
 
