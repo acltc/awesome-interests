@@ -107,7 +107,7 @@ A curated list of awesome introductory programming resources for a variety of sp
 ## Data visualization
 
 - [Learn D3](https://observablehq.com/@d3/learn-d3) - D3.js is a JavaScript library for manipulating documents based on data
-- [Interactive Charts with D3.js](https://wattenberger.com/blog/d3-interactive-charts) - An interactive tutorial to build interactive charts with D3.js
+- [Interactive Charts with D3.js](https://2019.wattenberger.com/blog/d3-interactive-charts) - An interactive tutorial to build interactive charts with D3.js
 - [Data Visualization with Python](https://www.geeksforgeeks.org/data-visualization-with-python/) - How to visualize data using four different Python libraries
 
   ##### People to follow: [Shirly Wu](https://shirleywu.studio/) - [Nadieh Bremer](https://www.visualcinnamon.com/about/) - [Amelia Wattenberger](https://wattenberger.com/) - [@vihartvihart](https://twitter.com/vihartvihart)
