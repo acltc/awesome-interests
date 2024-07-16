@@ -20,11 +20,11 @@ A curated list of awesome introductory programming resources for a variety of sp
 - [w3schools](https://www.w3schools.com/css/exercise.asp), [CSS Diner](https://flukeout.github.io/), [Flexbox Froggy](https://flexboxfroggy.com/), [Grid Garden](https://cssgridgarden.com/) - Interactive tutorials/games to practice and learn CSS
 - [Refactoring UI](https://www.refactoringui.com/) - Make your ideas look awesome, without relying on a designer.
 - [Laws of UX](https://lawsofux.com), [Material Design](https://m3.material.io) - Best practices for UX designers
-- [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free) - Design challenges using real-world projects, with a large Slack community for support
+- [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&type=free) - Design challenges using real-world projects, with a large Slack community for support
 
   ##### People to follow: [Sarah Drasner](https://sarahdrasnerdesign.com/) - [Lea Verou](https://lea.verou.me) - [Una Kravets](https://una.im) - [Steve Schoger](https://www.steveschoger.com) - [Victor Ponamariov](https://user-interface.io) - [Adam Wathan](https://adamwathan.me) - [Sam Selikoff](https://samselikoff.com) - [Tomo Kihara](https://www.tomokihara.com)
 
-  ##### Project ideas: Build a website from an existing design ([Frontend Mentor](https://www.frontendmentor.io/challenges?languages=HTML|CSS&types=free), [Frontend Practice](https://www.frontendpractice.com/), [GeeksForGeeks](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/))
+  ##### Project ideas: Build a website from an existing design ([Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&type=free), [Frontend Practice](https://www.frontendpractice.com/), [GeeksForGeeks](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/))
 
 ## Music and audio
 
